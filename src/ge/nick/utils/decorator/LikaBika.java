@@ -1,5 +1,12 @@
 package ge.nick.utils.decorator;
 
+/**
+ * Class that get data about Lika Bika.
+ * Override functions will return correct data.
+ * It is extends PersonDecorator
+ * because it is person prototype with specific data.
+ */
+
 public class LikaBika extends PersonDecorator{
 
     public LikaBika(Person person) {

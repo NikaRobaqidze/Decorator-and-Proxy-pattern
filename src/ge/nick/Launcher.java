@@ -8,7 +8,7 @@ import ge.nick.utils.proxy.CachedCheckPassword;
 import ge.nick.utils.proxy.PasswordCheckManager;
 import ge.nick.utils.proxy.CheckPassword;
 
-public class Main {
+public class Launcher {
     public static void main(String[] args) {
 
         // Decorator pattern.
